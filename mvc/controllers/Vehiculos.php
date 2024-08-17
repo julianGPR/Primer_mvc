@@ -11,11 +11,11 @@ class vehiculosController{
 
         require_once "views/vehiculos/vehiculos.php";
 
+echo "hola";
+
+echo "";
 
 
-
-
-        
     }
     public function nuevo(){
         
@@ -66,3 +66,4 @@ class vehiculosController{
         $this->index();
     }
 }
+echo "hola";
