@@ -11,6 +11,11 @@ class vehiculosController{
 
         require_once "views/vehiculos/vehiculos.php";
 
+
+
+
+
+        
     }
     public function nuevo(){
         
